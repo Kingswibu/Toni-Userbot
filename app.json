@@ -9,9 +9,9 @@
     "modular",
     "productivity"
 ],
-  "repository": "https://github.com/Tonic990/Tonic-User",
-  "telegram": "https://t.me/Bukan_guudlooking",
-  "success_url": "https://t.me/PrimeSupportGroup",
+  "repository": "https://github.com/Kingswibu/Toni-Userbot",
+  "telegram": "https://t.me/skytrixsz",
+  "success_url": "https://t.me/skytrixch",
   "stack": "container",
   "env": {
     "API_KEY": {
